@@ -1,10 +1,4 @@
----
-title: "Airbnb price prediction"
-output:
-  html_document:
-    df_print: paged
 
----
 
 **How much for your Airbnb**
 
